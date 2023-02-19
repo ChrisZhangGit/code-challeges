@@ -1,0 +1,10 @@
+.header-buttons-container {
+  margin: 0 auto;
+  margin-top: 5%;
+  height: 15%;
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 5%;
+}

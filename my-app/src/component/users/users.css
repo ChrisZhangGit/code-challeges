@@ -1,0 +1,11 @@
+.users-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 45%;
+  /* border: 1px blue solid; */
+}
+
+.user-tag {
+  margin-right: 5%;
+}
